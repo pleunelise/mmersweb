@@ -1,0 +1,15 @@
+article.headtext {
+  text-align: left;
+}
+
+article.news {
+  text-align: right;
+}
+
+article.calendar {
+  text-align: right;
+}
+
+footer.footer {
+  text-align: center;
+}
